@@ -1,0 +1,9 @@
+openai
+pdfplumber
+openpyxl
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+pdf2image
+pytesseract
